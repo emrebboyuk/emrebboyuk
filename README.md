@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Emre Basiboyuk @emrebboyuk
+### 👋 Hi, I’m Emre Basiboyuk
 - 👀 I’m interested in **Python** and **Backend Development**.
 - 🌱 I’m currently learning **Kubernetes** and **DevOps tools**.
 - 📫 How to reach me: bboyuk.emre@gmail.com
