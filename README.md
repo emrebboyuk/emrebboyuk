@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Emre Basiboyuk
 - 👀 I’m interested in **Python** and **Backend Development**.
 - 🌱 I’m currently learning **Kubernetes** and **DevOps tools**.
-- 📫 How to reach me: bboyuk.emre@gmail.com
+- 📫 How to reach me: contact@emrebasiboyuk.com
 - 😄 Pronouns: He/Him
 
 <!---
