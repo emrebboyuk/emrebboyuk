@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Emre Basiboyuk
 - 👀 I’m interested in **Python** and **Backend Development**.
-- 🌱 I’m currently learning **Kubernetes** and **DevOps tools**.
+- 🌱 I’m currently learning **Networking Fundementals** and **DevOps tools**.
 - 📫 How to reach me: contact@emrebasiboyuk.com
 - 😄 Pronouns: He/Him
 
